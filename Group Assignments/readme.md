@@ -51,4 +51,7 @@ We aim to depict socioeconomic stratifications amongst LA communities that have 
 ## Insights We Hope to Gain
 Identifying what community-level factors contribute to food insecurity, including but not limited to public transit access, car ownership, employment levels, grocery store, and restaurant access can help shape what an equitable and food-secure neighborhood looks like. This in turn will aid urban designers to include features and aspects of the built environment that can produce healthy communities. Hopefully, this research will elucidate some of the co-benefits prioritizing transit infrastructure and sources of fresh produce in zoning and planning can produce for communities. 
 
+## Flowchart
+![Flowchart](https://github.com/kiranr24/AMKSX/assets/156030240/4aeeebcb-f81e-4307-a78a-126282a282dc)
+
   
