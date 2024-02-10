@@ -7,8 +7,8 @@
 What contributes to food security and associated health outcomes at the community level in Los Angeles (LA) County?
 
 *Sub-questions to explore*
-- Which communities are particularly vulnerable to food insecurity?
-- How have disparities in food insecurity within LA County SPAs changed throughout the COVID-19 pandemic?  
+- What are the patterns of food insecurities and birth outcomes within the Service Planning Areas (SPAs)?
+- Which Service Planning Areas (SPAs) are particularly vulnerable to food insecurity?
 - What are the demographics of the most vulnerable communities?
 - What are the impacts of food insecurity on birth outcomes, specifically low birth weight?
 
@@ -16,8 +16,7 @@ What contributes to food security and associated health outcomes at the communit
 Food insecurity has a significant negative impact on individuals, communities, and societies. Furthermore, food insecurity tends to greatly impact vulnerable populations such as communities of color and lower-income status. Given LA County’s vast and diverse population, it is crucial to understand which of the eight SPAs are most at risk for food insecurity and what supplementary variables might be attributed to those risks. By examining food insecurity in the most vulnerable communities, this research hopes to provide valuable insights into the challenges that these communities face and ensure evidence-based policymaking while improving public health and environmental sustainability.
 
 ## Spatial & Temporal Scope
-During preliminary analysis, this project intends to explore food insecurity in all eight of LA county’s SPAs: Antelope Valley, San Fernando Valley, San Gabriel Valley, Metro, West, South, East, and South Bay. While it is important to look at LA County as a whole, this project specifically plans to focus on the top three SPAs that experience the highest levels of food insecurity to understand the barriers. From there, we hope to focus on communities that are the most affected within each SPA. In terms of a temporal scope, the project’s period is left (currently) determined by the time scale of the data we find. We are hoping to look at least 5-10 years of data and be able to incorporate data about the pandemic to see how that an affects food insecurity in the affected regions. 
-
+During preliminary analysis, this project intends to explore food insecurity in five selected SPAs within LA County: Antelope Valley, San Fernando Valley, Metro, West, and South. While it is important to look at LA County as a whole, this project specifically plans to focus on two SPAs that experience the highest and lowest levels of food insecurity to understand risk-enhancing/protective factors. We hope to focus on communities that are the most affected within each SPA. In terms of a temporal scope, the project’s period is determined by the time scale of the data we find.
 ## Data Sources 
 *A preliminary list of data sources is as follows*
 - CalFresh Cases (Census Tract) [Link](https://geohub.lacity.org/datasets/b308cb7ebdc84d64963416a4a3f50683_0/explore?location=34.564300%2C-118.028953%2C8.94)
