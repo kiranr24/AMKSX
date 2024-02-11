@@ -35,9 +35,9 @@ The USDA Food Deserts data is a valuable tool as it highlights geographic areas 
 
 Maternal and Infant Health data includes fertility rates and low-birth-weight data. Since access to nutritious food has been a factor in premature births and low birth weight, it could be useful in indicating health outcomes that are linked to food insecurity. 
 
-- Low Birthweight [Link](https://www.cdph.ca.gov/Programs/CFH/DMCAH/surveillance/Pages/Low-Birthweight.aspx)
+- Low Birthweight [Link](https://oehha.ca.gov/calenviroscreen/maps-data/download-data)
 
-This is data on the rates of low birth weight in California. This could be valuable to help indicate food insecurity within populations, for the same reasons as the Maternal and Infant Health data. 
+This is data on the percentages/percentiles of low birth weight in Los Angeles. This could be valuable to help indicate food insecurity within populations, for the same reasons as the Maternal and Infant Health data. 
 
 - Median Income and AMI (Census Tract) [Link](https://geohub.lacity.org/datasets/5455a5c504064c38b5ac9638d8580d92_0/explore?location=34.517261%2C-117.956678%2C9.00)
 
