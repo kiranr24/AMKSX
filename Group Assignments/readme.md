@@ -17,11 +17,14 @@ Food insecurity has a significant negative impact on individuals, communities, a
 
 ## Spatial & Temporal Scope
 During preliminary analysis, this project intends to explore food insecurity in five selected SPAs within LA County: Antelope Valley, San Fernando Valley, Metro, West, and South. While it is important to look at LA County as a whole, this project specifically plans to focus on two SPAs that experience the highest and lowest levels of food insecurity to understand risk-enhancing/protective factors. We hope to focus on communities that are the most affected within each SPA. In terms of a temporal scope, the project’s period is determined by the time scale of the data we find.
+
 ## Data Sources 
 *A preliminary list of data sources is as follows*
+- CalEnviroScreen 4.0 Data [Link] (
+
+XYZ
 - CalFresh Cases (Census Tract) [Link](https://geohub.lacity.org/datasets/b308cb7ebdc84d64963416a4a3f50683_0/explore?location=34.564300%2C-118.028953%2C8.94)
  
-  
 CalFresh, a federal program, offers financial assistance to low-income individuals and families with funds to purchase food. Utilizing this data offers a comprehensive view of tackling food insecurity in LA County by identifying at-risk communities requiring greater levels of assistance.  
 
 - USDA Food Deserts [Link](https://geohub.lacity.org/datasets/7fb7f906515a490486a173bdba086d1b_0/explore?location=34.580139%2C-117.871049%2C10.61)
@@ -39,10 +42,6 @@ This is data on the rates of low birth weight in California. This could be valua
 - Median Income and AMI (Census Tract) [Link](https://geohub.lacity.org/datasets/5455a5c504064c38b5ac9638d8580d92_0/explore?location=34.517261%2C-117.956678%2C9.00)
 
 Median Income and AMI enhance our understanding of economic disparities in LA County. This provides context as to which regions in Los Angeles have a higher proportion of individuals living below the poverty line. Consequently, these individuals could face greater barriers to purchasing nutritious, high-quality food. 
-
-- High School Graduate or Higher (Census Tract) [Link](https://geohub.lacity.org/datasets/d1aeaa00288f481c81e2ad448d5ff341_7/explore?location=34.369025%2C-117.940287%2C9.00)
-
-High School Graduate or Higher (Census Tract) looks at the education levels across LA County which is an informative indicator for food insecurity. This dataset is broken down by both FIPS and SPA region which provides detailed demographic context on the education level. 
 
 ## Scope of Project & Visualizations
 We aim to depict socioeconomic stratifications amongst LA communities that have high food insecurity levels as well as interpolate impacts from the pandemic and how they both ultimately culminate in health impacts affecting future generations of Angelinos. Beyond heatmaps showing food insecurity across Los Angeles, we hope to also incorporate temporal layers depicting how food security rates have changed over time and affected aforementioned health outcomes. This then can highlight specifically impacted regions which can then be targeted for policy and resources. 
