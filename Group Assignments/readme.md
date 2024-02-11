@@ -19,13 +19,19 @@ Food insecurity has a significant negative impact on individuals, communities, a
 During preliminary analysis, this project intends to explore food insecurity in five selected SPAs within LA County: Antelope Valley, San Fernando Valley, Metro, West, and South. While it is important to look at LA County as a whole, this project specifically plans to focus on two SPAs that experience the highest and lowest levels of food insecurity to understand risk-enhancing/protective factors. We hope to focus on communities that are the most affected within each SPA. In terms of a temporal scope, the project’s period is determined by the time scale of the data we find.
 
 ## Data Sources 
-*A preliminary list of data sources is as follows*
-- CalEnviroScreen 4.0 Data [Link] (
+*A preliminary list of data sources is as follows
 
-XYZ
 - CalFresh Cases (Census Tract) [Link](https://geohub.lacity.org/datasets/b308cb7ebdc84d64963416a4a3f50683_0/explore?location=34.564300%2C-118.028953%2C8.94)
  
 CalFresh, a federal program, offers financial assistance to low-income individuals and families with funds to purchase food. Utilizing this data offers a comprehensive view of tackling food insecurity in LA County by identifying at-risk communities requiring greater levels of assistance.  
+
+- 2020 Census Tract Data (LA Times) [Link](https://jupyter.idre.ucla.edu/user/mayasc1@g.ucla.edu/lab/tree/24W-UP221/Weeks/Week03%20Census%20Data/data/Census_Tracts_2020.geojson)
+
+The 2020 Census Tract data allows for us to get a breakdown of the SPAs in LA County. 
+
+- Race/Ethnicity Data (LA County) [Link](https://jupyter.idre.ucla.edu/user/mayasc1@g.ucla.edu/lab/tree/24W-UP221/Weeks/Week03%20Census%20Data/data/R13280610_SL140.csv)
+
+Taken from the Week 3 lab, this datafile will help us understand demographic characteristics of LA County. 
 
 - USDA Food Deserts [Link](https://geohub.lacity.org/datasets/7fb7f906515a490486a173bdba086d1b_0/explore?location=34.580139%2C-117.871049%2C10.61)
 
