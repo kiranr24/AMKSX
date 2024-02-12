@@ -37,10 +37,6 @@ Taken from the Week 3 lab, this datafile will help us understand demographic cha
 
 The USDA Food Deserts data is a valuable tool as it highlights geographic areas with limited food access. It may also help us identify additional disparities such as access to reliable public transportation, affordable grocery stores, and farmers' markets. 
 
-- Maternal and Infant Health [Link](https://trackingcalifornia.org/maternal-and-infant-health/what-is-maternal-and-infant-health)
-
-Maternal and Infant Health data includes fertility rates and low-birth-weight data. Since access to nutritious food has been a factor in premature births and low birth weight, it could be useful in indicating health outcomes that are linked to food insecurity. 
-
 - Low Birthweight [Link](https://oehha.ca.gov/calenviroscreen/maps-data/download-data)
 
 This is data on the percentages/percentiles of low birth weight in Los Angeles. This could be valuable to help indicate food insecurity within populations, for the same reasons as the Maternal and Infant Health data. 
@@ -48,6 +44,10 @@ This is data on the percentages/percentiles of low birth weight in Los Angeles. 
 - Median Income and AMI (Census Tract) [Link](https://geohub.lacity.org/datasets/5455a5c504064c38b5ac9638d8580d92_0/explore?location=34.517261%2C-117.956678%2C9.00)
 
 Median Income and AMI enhance our understanding of economic disparities in LA County. This provides context as to which regions in Los Angeles have a higher proportion of individuals living below the poverty line. Consequently, these individuals could face greater barriers to purchasing nutritious, high-quality food. 
+
+-Fertility & Birth Data (Census Tract) [Link](https://data.census.gov/table?q=fertility&g=050XX00US06037$1400000)
+
+Pulled from the ACS from 2022, this helps to provide helpful information about the amount of women giving birth in a particular census tract and can be used to calculate other types of rates for our research. This is also broken down by other socioeconomic indicators that may be significant in understanding certain confounders or contributing factors to our tracked outcomes. 
 
 ## Scope of Project & Visualizations
 We aim to depict socioeconomic stratifications amongst LA communities that have high food insecurity levels as well as interpolate impacts from the pandemic and how they both ultimately culminate in health impacts affecting future generations of Angelinos. Beyond heatmaps showing food insecurity across Los Angeles, we hope to also incorporate temporal layers depicting how food security rates have changed over time and affected aforementioned health outcomes. This then can highlight specifically impacted regions which can then be targeted for policy and resources. 
