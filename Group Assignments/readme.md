@@ -21,7 +21,7 @@ During preliminary analysis, this project intends to explore food insecurity in 
 ## Data Sources 
 *A list of our data sources is as follows
 
-- SNAP Acceptance [Link]([https://la.myneighborhooddata.org/2021/06/snap-acceptance/))
+- SNAP Acceptance [Link](https://la.myneighborhooddata.org/2021/06/snap-acceptance)
  
 Supplemental Nutrition Assistance Program (SNAP) is a nutrition assistance program that aids low-income families in their grocery budgets. By tracking which grocery stores accept SNAP, we're able to track which SPAs typically use SNAP and which communities are low-income/need supplemental nutrition. 
 
