@@ -21,9 +21,9 @@ During preliminary analysis, this project intends to explore food insecurity in 
 ## Data Sources 
 *A preliminary list of data sources is as follows
 
-- CalFresh Cases (Census Tract) [Link](https://geohub.lacity.org/datasets/b308cb7ebdc84d64963416a4a3f50683_0/explore?location=34.564300%2C-118.028953%2C8.94)
+- SNAP Acceptance [Link]([https://la.myneighborhooddata.org/2021/06/snap-acceptance/))
  
-CalFresh, a federal program, offers financial assistance to low-income individuals and families with funds to purchase food. Utilizing this data offers a comprehensive view of tackling food insecurity in LA County by identifying at-risk communities requiring greater levels of assistance.  
+Supplemental Nutrition Assistance Program (SNAP) is a nutrition assistance program that aids low-income families in their grocery budgets. By tracking which grocery stores accept SNAP, we're able to track which SPAs typically use SNAP and which communities are low-income/need supplemental nutrition. 
 
 - 2020 Census Tract Data (LA Times) [Link](https://jupyter.idre.ucla.edu/user/mayasc1@g.ucla.edu/lab/tree/24W-UP221/Weeks/Week03%20Census%20Data/data/Census_Tracts_2020.geojson)
 
