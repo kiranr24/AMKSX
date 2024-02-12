@@ -1,4 +1,4 @@
-# Group Assignment Proposal
+# Updated Group Assignment Proposal
 **NutriNetwork Los Angeles** ||
 *Maya Coronado, Savannah Gourley, Ashley Jahja, Xander Lee, Kiran Rao*
 
@@ -19,7 +19,7 @@ Food insecurity has a significant negative impact on individuals, communities, a
 During preliminary analysis, this project intends to explore food insecurity in five selected SPAs within LA County: Antelope Valley, San Fernando Valley, Metro, West, and South. While it is important to look at LA County as a whole, this project specifically plans to focus on two SPAs that experience the highest and lowest levels of food insecurity to understand risk-enhancing/protective factors. We hope to focus on communities that are the most affected within each SPA. In terms of a temporal scope, the project’s period is determined by the time scale of the data we find.
 
 ## Data Sources 
-*A preliminary list of data sources is as follows
+*A list of our data sources is as follows
 
 - SNAP Acceptance [Link]([https://la.myneighborhooddata.org/2021/06/snap-acceptance/))
  
