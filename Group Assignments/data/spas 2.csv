@@ -1,0 +1,538 @@
+﻿tract,sup_dist,csa,spa,ESRI_OID,Shape__Area,Shape__Length
+06037199700,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2347,10410497.46,13808.46324
+06037199801,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,2348,3724106.854,9459.391827
+06037199802,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,2349,3296128.605,8868.744225
+06037199900,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,2350,4782360.923,10141.72802
+06037201110,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2351,10992458.06,15893.38364
+06037201120,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2352,8477293.326,13504.91777
+06037201200,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2353,4612278.714,10208.95052
+06037201301,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2354,9414202.778,18595.38854
+06037201302,District 1,Los Angeles - Highland Park,SPA 4 - Metro,2355,10671943.71,14894.76655
+06037201401,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2356,14162701.11,15449.76247
+06037201402,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2357,20831565.22,18870.58277
+06037201501,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2358,9520485.641,14185.08924
+06037201503,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2359,4712856.253,9121.14428
+06037201504,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2360,3937450.052,9476.656464
+06037201601,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2361,5989464.779,10928.04197
+06037201602,District 1,Los Angeles - El Sereno,SPA 4 - Metro,2362,11481095.91,18567.40448
+06037201700,District 1,Los Angeles - University Hills,SPA 4 - Metro,2363,18289606.43,20636.56683
+06037203100,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2364,7129819.722,11829.9124
+06037203200,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2365,5493896.245,10209.55033
+06037203300,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2366,15937496.74,15581.48376
+06037203500,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2367,17896885.27,18825.82275
+06037203601,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2368,3595069.32,12438.14153
+06037203602,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2369,2435445.706,6781.753097
+06037203710,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2370,3036028.593,7623.779313
+06037203720,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2371,3456064.821,7965.718684
+06037203800,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2372,5236904.258,9426.913001
+06037203900,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2373,4820099.333,12064.04431
+06037204110,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2374,6496519.905,10204.59609
+06037204120,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2375,2822350.298,6970.228706
+06037204200,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2376,3242329.508,7623.72919
+06037204300,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2377,6926376.474,10887.97958
+06037204410,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2378,3196327.399,7592.69194
+06037204420,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2379,3252575.081,7655.412427
+06037204600,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2380,6201551.645,12222.88796
+06037204700,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2381,10907423.23,13331.46153
+06037204810,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2382,8327932.845,11953.62
+06037204820,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2383,3446622.072,8345.427607
+06037204910,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2384,5538623.95,9616.40759
+06037204920,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2385,9771951.948,12570.57535
+06037205110,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2386,2956008.295,9068.867215
+06037205120,District 1,Los Angeles - Boyle Heights,SPA 4 - Metro,2387,15952710.96,19218.25358
+06037206010,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2388,15714297.73,20599.43119
+06037206020,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2389,9395603.394,11938.55636
+06037206050,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2390,19183090.33,25485.7002
+06037206051,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2477,40408764.94,29476.26196
+06037206052,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2478,9776925.704,13446.59477
+06037206053,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2479,6331758.787,10803.13034
+06037206054,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2480,4502153.559,9300.340514
+06037206201,District 1,Los Angeles - Little Tokyo,SPA 4 - Metro,2481,2156821.986,6937.901771
+06037206202,District 1,Los Angeles - Little Tokyo,SPA 4 - Metro,2482,4114009.19,9646.074276
+06037206301,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2483,1467235.076,4941.872097
+06037206302,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2484,483653.2412,3603.263688
+06037206303,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,2485,4692073.156,10612.52856
+06037207101,District 1,Los Angeles - Chinatown,SPA 4 - Metro,2486,3165333.106,7693.962372
+06037207102,District 1,Los Angeles - Chinatown,SPA 4 - Metro,2487,4502100.257,9892.578697
+06037207103,District 1,Los Angeles - Chinatown,SPA 4 - Metro,2488,3388155.936,9522.763573
+06037207303,District 1,Los Angeles - Downtown,SPA 4 - Metro,2489,1888040.552,5575.259069
+06037207304,District 1,Los Angeles - Downtown,SPA 4 - Metro,2490,541446.2529,3459.976863
+06037207305,District 1,Los Angeles - Downtown,SPA 4 - Metro,2491,2182714.78,8262.43864
+06037207306,District 1,Los Angeles - Downtown,SPA 4 - Metro,2492,1736073.656,5646.000822
+06037207307,District 1,Los Angeles - Downtown,SPA 4 - Metro,2493,527160.0469,2910.616691
+06037207308,District 1,Los Angeles - Downtown,SPA 4 - Metro,2494,492573.751,2815.257443
+06037207400,District 1,Los Angeles - Downtown,SPA 4 - Metro,2495,9422939.104,15058.8006
+06037207501,District 1,Los Angeles - Downtown,SPA 4 - Metro,2496,1460154.432,4739.840356
+06037207502,District 1,Los Angeles - Downtown,SPA 4 - Metro,2497,4463490.012,9079.039955
+06037207711,District 1,Los Angeles - Downtown,SPA 4 - Metro,2498,7428549.182,14671.25667
+06037207712,District 1,Los Angeles - Downtown,SPA 4 - Metro,2499,4383784.372,9437.955472
+06037207901,District 1,Los Angeles - Downtown,SPA 4 - Metro,2500,2128884.62,6828.323144
+06037207902,District 1,Los Angeles - Downtown,SPA 4 - Metro,2501,7634284.114,11075.60027
+06037208001,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,2502,6277025.371,11140.08552
+06037208002,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,2503,4063649.021,8994.419852
+06037208301,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,2504,1059097.596,5122.536346
+06037208302,District 1,Los Angeles - Historic Filipinotown,SPA 4 - Metro,2505,4716446.304,9773.07262
+06037208401,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,2506,2469648.369,6288.091978
+06037208402,District 1,Los Angeles - Historic Filipinotown,SPA 4 - Metro,2507,3704274.592,8618.234565
+06037208501,District 1,Los Angeles - Historic Filipinotown,SPA 4 - Metro,2508,2614754.837,6561.528141
+06037208502,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,2509,2796254.319,6766.576918
+06037208610,District 1,Los Angeles - Historic Filipinotown,SPA 4 - Metro,2510,3802019.996,8257.266395
+06037208620,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,2511,3490954.759,8191.681167
+06037208710,District 1,Los Angeles - Westlake,SPA 4 - Metro,2512,1824918.229,5646.281765
+06037208720,District 1,Los Angeles - Westlake,SPA 4 - Metro,2513,1753988.314,6905.126175
+06037208801,District 1,Los Angeles - Westlake,SPA 4 - Metro,2514,2902686.711,7792.473191
+06037208802,District 1,Los Angeles - Westlake,SPA 4 - Metro,2515,2279363.023,7692.527836
+06037208902,District 1,Los Angeles - Westlake,SPA 4 - Metro,2516,1980055.598,5658.493038
+06037208903,District 1,Los Angeles - Westlake,SPA 4 - Metro,2517,1714545.078,7038.479644
+06037208904,District 1,Los Angeles - Westlake,SPA 4 - Metro,2518,1224138.453,4504.137119
+06037209103,District 1,Los Angeles - Westlake,SPA 4 - Metro,2519,1337574.158,4685.369347
+06037209104,District 1,Los Angeles - Westlake,SPA 4 - Metro,2607,735766.4385,3760.813998
+06037209105,District 1,Los Angeles - Westlake,SPA 4 - Metro,2608,892285.9023,3984.962068
+06037209106,District 1,Los Angeles - Westlake,SPA 4 - Metro,2609,2381529.056,6257.329915
+06037209201,District 1,Los Angeles - Westlake,SPA 4 - Metro,2610,1818530.864,5562.088306
+06037209202,District 1,Los Angeles - Westlake,SPA 4 - Metro,2611,2667667.431,6511.253069
+06037209300,District 1,Los Angeles - Westlake,SPA 4 - Metro,2612,3296967.586,7931.18045
+06037209401,District 1,Los Angeles - Westlake,SPA 4 - Metro,2613,2323375.792,6370.637612
+06037209402,District 1,Los Angeles - Westlake,SPA 4 - Metro,2614,1466622.382,4849.886726
+06037209403,District 1,Los Angeles - Westlake,SPA 4 - Metro,2615,1487585.052,4882.443192
+06037209510,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,2616,1963614.684,5807.605825
+06037209520,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,2617,2499111.244,6466.563304
+06037209810,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,2618,1660660.461,5390.00072
+06037209820,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,2619,1936268.193,5687.974114
+06037210010,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,2620,4448567.779,8896.547478
+06037211000,District 2,Los Angeles - Hancock Park,SPA 4 - Metro,2621,28608477.82,25105.85213
+06037211121,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2622,2315992.818,7544.02039
+06037211122,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2623,3930365.132,8273.446548
+06037211123,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2624,1850526.14,6797.212181
+06037211124,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2625,4228641.481,8167.548078
+06037211201,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2626,1501881.869,4915.684313
+06037211202,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2627,1927075.493,5559.421455
+06037211310,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2628,1549860.715,4995.205104
+06037211320,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2629,2004122.247,5671.305411
+06037211410,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2630,2915308.277,7500.754606
+06037211420,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2631,4101420.132,8393.562243
+06037211500,District 2,Los Angeles - Hancock Park,SPA 4 - Metro,2632,9760679.48,13076.57339
+06037211701,District 2,Los Angeles - Hancock Park,SPA 4 - Metro,2633,7007753.876,10536.05785
+06037211703,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2634,1986718.893,5648.97182
+06037211704,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2635,1990668.861,5698.519763
+06037211802,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2636,3502571.777,7938.570623
+06037211803,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2637,1501763.785,4915.856574
+06037211804,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2638,2001589.043,5672.182614
+06037211910,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2639,1484978.667,4890.398949
+06037211921,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2640,997424.3301,4152.132568
+06037211922,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2641,999743.7441,4155.338167
+06037212101,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2642,1999890.327,5670.097463
+06037212102,District 2,Los Angeles - Little Bangladesh,SPA 4 - Metro,2643,1492508.618,4902.631746
+06037212202,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2644,2225899.926,6481.887987
+06037212203,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2645,1141073.354,4500.610378
+06037212204,District 2,Los Angeles - Wilshire Center,SPA 4 - Metro,2646,2300387.561,6142.686441
+06037212303,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2647,1675272.862,5219.253902
+06037212304,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2648,2218468.734,6304.991861
+06037212305,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2649,1168773.146,4355.764526
+06037212306,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2757,1742806.878,5316.960787
+06037212410,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2758,1687088.938,5550.262489
+06037212420,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2759,1538332.868,4954.122473
+06037212501,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2760,856375.3359,3804.123564
+06037212502,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2761,3069436.973,8256.676374
+06037212610,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2762,3837077.169,8373.506661
+06037212620,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2763,3112104.208,7947.75922
+06037212701,District 2,Los Angeles - Country Club Park,SPA 4 - Metro,2764,5137695.229,10446.12242
+06037212702,District 2,Los Angeles - Country Club Park,SPA 4 - Metro,2765,9432433.528,13436.74067
+06037212800,District 2,Los Angeles - Country Club Park,SPA 4 - Metro,2766,8454048.389,11698.38976
+06037212900,District 2,Los Angeles - Country Club Park,SPA 4 - Metro,2767,3940299.25,8740.439585
+06037213100,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2768,5781514.454,10486.30028
+06037213201,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2769,3589230.659,8182.676888
+06037213202,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2770,3637201.032,8141.435081
+06037213310,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2771,3346140.252,7793.971041
+06037213320,District 2,Los Angeles - Koreatown,SPA 4 - Metro,2772,3380926.981,7845.38107
+06037213401,District 2,Los Angeles - Pico-Union,SPA 4 - Metro,2773,2108256.961,6326.463376
+06037213402,District 2,Los Angeles - Pico-Union,SPA 4 - Metro,2774,4220536.427,8304.775772
+06037214000,District 3,Los Angeles - Melrose,SPA 4 - Metro,2775,10878898.99,13349.83203
+06037214100,District 2,Los Angeles - Hancock Park,SPA 4 - Metro,2776,11954015.66,14119.43583
+06037214400,District 3,Los Angeles - Melrose,SPA 4 - Metro,2777,3705387.516,7957.455978
+06037214501,District 2,Los Angeles - Park La Brea,SPA 4 - Metro,2778,8104648.127,13972.62344
+06037214503,District 2,Los Angeles - Park La Brea,SPA 4 - Metro,2779,2452371.028,6833.362906
+06037214504,District 2,Los Angeles - Park La Brea,SPA 4 - Metro,2780,1310617.075,5783.538301
+06037214505,District 2,Los Angeles - Park La Brea,SPA 4 - Metro,2781,1510257.356,6781.700024
+06037214600,District 3,Los Angeles - Carthay,SPA 4 - Metro,2782,6255496.017,10110.46669
+06037214700,District 3,Los Angeles - Carthay,SPA 4 - Metro,2783,6384452.137,10225.82031
+06037214800,District 3,Los Angeles - Carthay,SPA 4 - Metro,2784,6204448.755,11233.31398
+06037214902,District 3,Los Angeles - Carthay,SPA 4 - Metro,2785,5572430.15,9450.679172
+06037214903,District 3,Los Angeles - Carthay,SPA 4 - Metro,2786,1465902.784,5280.136711
+06037214904,District 3,Los Angeles - Carthay,SPA 4 - Metro,2787,1828968.399,5357.674288
+06037215101,District 2,Los Angeles - Miracle Mile,SPA 4 - Metro,2788,3809331.648,10263.4839
+06037215102,District 2,Los Angeles - Miracle Mile,SPA 4 - Metro,2789,2874435.639,7853.989229
+06037216100,District 2,Los Angeles - Miracle Mile,SPA 4 - Metro,2790,7258622.613,11137.22826
+06037216201,District 2,Los Angeles - Miracle Mile,SPA 4 - Metro,2791,4885807.69,10090.45657
+06037216202,District 2,Los Angeles - Miracle Mile,SPA 4 - Metro,2792,5435377.364,10155.33577
+06037216301,District 2,Los Angeles - Miracle Mile,SPA 4 - Metro,2793,6049546.787,11309.81632
+06037216302,District 2,Los Angeles - Miracle Mile,SPA 4 - Metro,2794,7612845.067,11326.86204
+06037216700,District 2,Los Angeles - Crestview,SPA 4 - Metro,2797,8359985.127,11708.38862
+06037216800,District 2,Los Angeles - South Carthay,SPA 4 - Metro,2798,7970666.101,11541.43513
+06037216901,District 2,Los Angeles - Mid-city,SPA 4 - Metro,2799,7529393.079,12049.57402
+06037216902,District 2,Los Angeles - Mid-city,SPA 4 - Metro,2929,4207215.775,9158.065431
+06037217101,District 2,Los Angeles - Mid-city,SPA 4 - Metro,2932,4274959.882,9355.779926
+06037217102,District 2,Los Angeles - Mid-city,SPA 4 - Metro,2933,5389199.599,9500.850443
+06037217200,District 2,Los Angeles - Mid-city,SPA 4 - Metro,2934,9910637.518,15000.92524
+06037218110,District 2,Los Angeles - Victoria Park,SPA 4 - Metro,2935,6462720.51,12750.58451
+06037218120,District 2,Los Angeles - Victoria Park,SPA 4 - Metro,2936,4789315.242,8883.841242
+06037218210,District 2,Los Angeles - St Elmo Village,SPA 4 - Metro,2937,4174755.21,8767.262446
+06037218220,District 2,Los Angeles - Lafayette Square,SPA 4 - Metro,2938,7202036.963,11673.24427
+06037218300,District 2,Los Angeles - Cloverdale/Cochran,SPA 4 - Metro,2939,9721211.265,17303.9296
+06037221110,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,2957,2543189.478,6917.142183
+06037221120,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,2958,3461839.033,7508.702186
+06037221210,District 2,Los Angeles - Harvard Heights,SPA 4 - Metro,2959,3886574.75,8400.448346
+06037221220,District 2,Los Angeles - Harvard Heights,SPA 4 - Metro,2960,7061620.8,10517.00659
+06037221302,District 2,Los Angeles - Harvard Heights,SPA 4 - Metro,2961,4979090.126,10182.99783
+06037221303,District 2,Los Angeles - Harvard Heights,SPA 4 - Metro,2962,2529230.908,6479.802078
+06037221304,District 2,Los Angeles - Harvard Heights,SPA 4 - Metro,2963,2439438.5,6306.027579
+06037224010,District 1,Los Angeles - Downtown,SPA 4 - Metro,3109,8935641.598,13793.16181
+06037224020,District 1,Los Angeles - Downtown,SPA 4 - Metro,3110,13274685.4,15194.74541
+06037224200,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,3111,4048361.072,8617.785777
+06037224310,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,3112,1829472.242,6639.978812
+06037224320,District 1,Los Angeles - Pico-Union,SPA 4 - Metro,3113,3148559.907,8337.933606
+06037226001,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,3119,11262506.09,19000.49175
+06037226002,District 1,Los Angeles - Wholesale District,SPA 4 - Metro,3120,27454967.1,21360.59037
+06037700101,District 3,City of West Hollywood,SPA 4 - Metro,3548,7248139.885,13591.47643
+06037700102,District 3,City of West Hollywood,SPA 4 - Metro,3549,5302940.472,13535.34196
+06037700200,District 3,City of West Hollywood,SPA 4 - Metro,3550,7381573.278,13007.77949
+06037700300,District 3,City of West Hollywood,SPA 4 - Metro,3551,6449915.854,13744.73659
+06037700400,District 3,City of West Hollywood,SPA 4 - Metro,3552,14273444.22,20695.86247
+06037700501,District 3,City of West Hollywood,SPA 4 - Metro,3553,6428353.161,14556.38308
+06037700502,District 3,City of West Hollywood,SPA 4 - Metro,3554,5454767.544,10628.07362
+06037530700,District 1,Unincorporated - East Los Angeles,SPA 4 - Metro,3873,11206081.37,17515.60632
+06037270300,District 2,Los Angeles - Faircrest Heights,SPA 4 - Metro,3981,10522641.7,13635.12891
+06037181000,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4295,44448995.23,37014.56487
+06037181300,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4296,15605643.67,19883.49368
+06037181400,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4297,9425720.289,14270.34
+06037181500,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4298,11760770.47,17618.24516
+06037181600,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4299,13360638.2,17197.1239
+06037183101,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4300,10607809.58,16423.54448
+06037183103,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4301,7244202.957,19003.06015
+06037183104,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4302,6726843.806,15127.03496
+06037183220,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4303,5876242.414,12529.56248
+06037183221,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4304,7556623.378,11919.91973
+06037183222,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4305,9910024.888,16262.52674
+06037183300,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4306,5867829.605,10063.00206
+06037183401,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4307,5344581.567,10175.2714
+06037183402,District 1,Los Angeles - Eagle Rock,SPA 4 - Metro,4308,5662655.355,10718.81764
+06037183510,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4309,5247216.662,10222.89794
+06037183520,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4310,4701674.387,9080.127189
+06037183610,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4311,4014651.394,9658.449062
+06037980009,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4427,228426493.8,78138.60174
+06037980010,District 1,Los Angeles - Elysian Park,SPA 4 - Metro,4428,41576170.86,34977.57638
+06037183701,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4441,5759863.952,12281.67837
+06037183702,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4442,9524021.356,16581.69776
+06037183810,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4443,4841193.906,10223.55753
+06037183820,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4444,3348964.757,10238.05253
+06037185101,District 1,Los Angeles - Mt. Washington,SPA 4 - Metro,4445,8706618.617,16955.17586
+06037185102,District 1,Los Angeles - Mt. Washington,SPA 4 - Metro,4446,15935927.76,25632.9479
+06037185202,District 1,Los Angeles - Mt. Washington,SPA 4 - Metro,4447,13003386.15,16277.41762
+06037185203,District 1,Los Angeles - Mt. Washington,SPA 4 - Metro,4448,5849916.313,11295.92411
+06037185204,District 1,Los Angeles - Mt. Washington,SPA 4 - Metro,4449,10302996.29,15511.26766
+06037185310,District 1,Los Angeles - Mt. Washington,SPA 4 - Metro,4450,4461664.139,11883.46184
+06037185320,District 1,Los Angeles - Elysian Valley,SPA 4 - Metro,4451,6087527.244,12706.77963
+06037186100,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4452,14122828.86,20374.1402
+06037186201,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4453,5351125.641,11939.78841
+06037186202,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4454,4556332.902,10534.94403
+06037186203,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4455,9091855.962,15362.24224
+06037186301,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4456,12733089.02,17741.03288
+06037186302,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4457,18285481.25,17522.48693
+06037186401,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4458,10153015.2,17566.23625
+06037186403,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4459,5905691.162,11856.93659
+06037186404,District 1,Los Angeles - Glassell Park,SPA 4 - Metro,4460,4284252.167,8709.723834
+06037187101,District 1,Los Angeles - Atwater Village,SPA 4 - Metro,4461,8510001.009,12901.79778
+06037187102,District 1,Los Angeles - Atwater Village,SPA 4 - Metro,4462,23601872.39,38158.38678
+06037187200,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4463,10210252.38,15467.57802
+06037187300,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4464,12573329.33,19425.395
+06037188100,District 1,Los Angeles - Atwater Village,SPA 4 - Metro,4465,22650892.64,25920.7016
+06037188201,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4466,8583742.654,16919.48808
+06037188202,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4467,8230132.954,11771.53901
+06037188300,District 1,Los Angeles - Atwater Village,SPA 4 - Metro,4468,9856462.605,12658.97398
+06037189101,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4469,4253805.294,8256.535988
+06037189102,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4470,6905576.161,12037.64268
+06037189201,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4471,3506033.15,7950.823968
+06037189202,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4472,11036873.87,16286.49026
+06037189300,District 5,Los Angeles - Los Feliz,SPA 4 - Metro,4473,20565714.22,24814.66324
+06037189400,District 5,Los Angeles - Hollywood Hills,SPA 4 - Metro,4474,15507607.53,23706.4366
+06037189501,District 5,Los Angeles - Hollywood Hills,SPA 4 - Metro,4475,3813790.654,8060.133875
+06037189502,District 5,Los Angeles - Hollywood Hills,SPA 4 - Metro,4476,2663667.326,6911.334448
+06037189600,District 5,Los Angeles - Hollywood Hills,SPA 4 - Metro,4477,11513193.68,18537.86658
+06037183620,District 1,Los Angeles - Highland Park,SPA 4 - Metro,4478,5605125.851,9297.165099
+06037189702,District 5,Los Angeles - Hollywood Hills,SPA 4 - Metro,4479,15623394.37,21310.44228
+06037189703,District 5,Los Angeles - Hollywood Hills,SPA 4 - Metro,4480,35757590.59,39992.79944
+06037189704,District 5,Los Angeles - Hollywood Hills,SPA 4 - Metro,4481,11045948.98,22924.24202
+06037189801,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4482,4463763.625,9921.861297
+06037189802,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4483,3406698.649,7860.661236
+06037189903,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4583,911068.4502,4147.043296
+06037189904,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4584,1717995.097,5282.078075
+06037189905,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4585,2781471.508,6976.504928
+06037189906,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4586,2180620.14,5943.032652
+06037189907,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4587,1746419.551,5286.484129
+06037190101,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4588,2408287.255,6809.254856
+06037190102,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4589,4050079.622,8766.03717
+06037190201,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4590,2414905.833,6702.511792
+06037190202,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4591,2268330.934,6272.847416
+06037190302,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4592,2672677.898,9399.590726
+06037190303,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4593,1758851.837,5299.096549
+06037190401,District 1,Los Angeles - Thai Town,SPA 4 - Metro,4594,1794718.619,5352.38817
+06037190402,District 1,Los Angeles - Thai Town,SPA 4 - Metro,4595,1703419.563,5220.962615
+06037190510,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4596,3431162.772,7980.935922
+06037190520,District 1,Los Angeles - Thai Town,SPA 4 - Metro,4597,2623817.315,6611.946125
+06037190701,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4598,4762913.411,9891.611917
+06037190702,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4599,2152980.215,5909.328017
+06037190801,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4600,3489354.941,7925.329311
+06037190802,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4601,5239434.938,9249.698493
+06037190901,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4602,5276728.264,9290.815101
+06037190902,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4603,5241444.3,9257.052349
+06037191000,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4604,6889316.932,11150.2882
+06037191110,District 1,Los Angeles - Little Armenia,SPA 4 - Metro,4605,2935781.978,7507.322159
+06037191120,District 1,Los Angeles - Little Armenia,SPA 4 - Metro,4606,4086207.511,8373.028582
+06037191201,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4607,6159856.799,9951.803389
+06037191203,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4608,2208647.539,5985.146278
+06037191204,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4609,2164440.775,5918.994441
+06037191301,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4610,2943320.985,8516.894451
+06037191302,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4611,4550186.103,9354.956612
+06037191410,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4612,3351834.153,7438.615027
+06037191420,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4613,2445342.204,6614.972479
+06037191500,District 1,Los Angeles - East Hollywood,SPA 4 - Metro,4614,6905191.907,10328.41683
+06037191610,District 3,Los Angeles - Melrose,SPA 4 - Metro,4615,4516467.598,9408.296297
+06037191620,District 3,Los Angeles - Melrose,SPA 4 - Metro,4616,2445220.929,7017.168055
+06037191710,District 3,Los Angeles - Melrose,SPA 4 - Metro,4617,7627194.529,13209.02715
+06037191720,District 3,Los Angeles - Melrose,SPA 4 - Metro,4618,2845306.476,6946.316352
+06037191810,District 3,Los Angeles - Melrose,SPA 4 - Metro,4619,4350630.715,9234.497787
+06037191820,District 3,Los Angeles - Melrose,SPA 4 - Metro,4620,4356997.034,9240.099245
+06037191901,District 3,Los Angeles - Melrose,SPA 4 - Metro,4621,8323634.666,11867.31917
+06037191902,District 3,Los Angeles - Melrose,SPA 4 - Metro,4622,7818740.748,11569.20775
+06037192001,District 3,Los Angeles - Melrose,SPA 4 - Metro,4623,5713216.985,11592.71507
+06037192002,District 3,Los Angeles - Melrose,SPA 4 - Metro,4624,9235858.898,12792.96101
+06037192300,District 3,Los Angeles - Melrose,SPA 4 - Metro,4625,9456509.244,12470.62227
+06037192410,District 3,Los Angeles - Melrose,SPA 4 - Metro,4712,7360628.904,10853.93426
+06037192420,District 3,Los Angeles - Melrose,SPA 4 - Metro,4713,3494301.186,7935.384087
+06037192510,District 3,Los Angeles - Melrose,SPA 4 - Metro,4714,3676220.52,8083.487154
+06037192520,District 3,Los Angeles - Melrose,SPA 4 - Metro,4715,3307689.511,7772.457267
+06037192610,District 3,Los Angeles - Melrose,SPA 4 - Metro,4716,4469637.643,9148.63121
+06037192620,District 3,Los Angeles - Melrose,SPA 4 - Metro,4717,2621282.093,7268.933306
+06037192700,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4718,5724862.038,9589.41664
+06037194101,District 3,Los Angeles - Hollywood Hills,SPA 4 - Metro,4719,27180830.03,31075.05626
+06037194102,District 3,Los Angeles - Hollywood Hills,SPA 4 - Metro,4720,37645454.39,34914.69752
+06037194200,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4721,28373047.38,25984.2625
+06037194300,District 3,Los Angeles - Hollywood,SPA 4 - Metro,4722,26227895.59,30785.97294
+06037194401,District 3,Los Angeles - Melrose,SPA 4 - Metro,4723,5154787.685,9246.950612
+06037194402,District 3,Los Angeles - Melrose,SPA 4 - Metro,4724,6337662.805,14182.45849
+06037194500,District 3,Los Angeles - Melrose,SPA 4 - Metro,4725,7266523.675,14479.90367
+06037195100,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4726,20453803.89,21319.03327
+06037195201,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4727,6368770.976,13708.09692
+06037195202,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4728,9353385.49,14469.56877
+06037195300,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4729,6250975.548,11070.14042
+06037195400,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4730,10992588.21,16204.9071
+06037195500,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4731,13164198.9,19218.2547
+06037195600,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4732,5712584.264,10997.16684
+06037195710,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,4733,5192040.212,9745.730029
+06037195720,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,4734,3067002.278,8340.768198
+06037195802,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,4735,4341880.869,9929.551367
+06037195803,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,4736,4074198.948,9002.277082
+06037195804,District 1,Los Angeles - Temple-Beaudry,SPA 4 - Metro,4737,3621379.552,7702.845186
+06037195901,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4738,3167895.595,7993.588992
+06037195902,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4739,3659790.434,8148.34835
+06037195903,District 1,Los Angeles - Silverlake,SPA 4 - Metro,4740,2560973.891,6617.766511
+06037197200,District 1,Los Angeles - Elysian Valley,SPA 4 - Metro,4741,8254417.317,14769.06805
+06037197300,District 1,Los Angeles - Echo Park,SPA 4 - Metro,4742,6852261.595,14683.68498
+06037197410,District 1,Los Angeles - Elysian Valley,SPA 4 - Metro,4743,14961791.12,17855.05973
+06037197420,District 1,Los Angeles - Echo Park,SPA 4 - Metro,4744,6662696.074,11589.35682
+06037197500,District 1,Los Angeles - Echo Park,SPA 4 - Metro,4745,6903041.98,10403.77306
+06037197600,District 1,Los Angeles - Angelino Heights,SPA 4 - Metro,4746,4213783.379,10380.06474
+06037197700,District 1,Los Angeles - Elysian Park,SPA 4 - Metro,4747,7539991.258,13637.86331
+06037199001,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,4748,2823832.105,7991.60286
+06037199002,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,4749,14153143.55,20590.57379
+06037199110,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,4750,9922886.959,13487.68986
+06037199120,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,4751,10366630.68,16430.64353
+06037199201,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,4752,4272810.895,8743.52631
+06037199202,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,4753,10262323.06,17337.62623
+06037199300,District 1,Los Angeles - Lincoln Heights,SPA 4 - Metro,4754,27667373.48,30528.99057
+06037199400,District 1,Los Angeles - Mt. Washington,SPA 4 - Metro,4755,7705435.548,16525.89308
+06037216401,District 3,Los Angeles - South Carthay,SPA 5 - West,2795,4453771.929,8573.050905
+06037216402,District 3,Los Angeles - South Carthay,SPA 5 - West,2796,2454486.62,6352.559841
+06037217001,District 3,Los Angeles - Crestview,SPA 5 - West,2930,5932737.093,10781.49167
+06037217002,District 3,Los Angeles - Crestview,SPA 5 - West,2931,8310430.762,11537.25747
+06037700600,District 3,City of Beverly Hills,SPA 5 - West,3555,61159774.47,45106.84674
+06037700700,District 3,City of Beverly Hills,SPA 5 - West,3556,37897052.82,31200.99347
+06037700801,District 3,City of Beverly Hills,SPA 5 - West,3557,15717383.36,19965.10576
+06037700802,District 3,City of Beverly Hills,SPA 5 - West,3558,7302287.234,14888.34372
+06037700901,District 3,City of Beverly Hills,SPA 5 - West,3559,11377820.65,18770.36986
+06037700902,District 3,City of Beverly Hills,SPA 5 - West,3560,10288596.88,12917.87842
+06037701000,District 3,City of Beverly Hills,SPA 5 - West,3561,15201980.04,17530.92091
+06037701201,District 3,City of Santa Monica,SPA 5 - West,3562,20797737.92,18156.85949
+06037701202,District 3,City of Santa Monica,SPA 5 - West,3563,4362526.576,9140.208205
+06037701302,District 3,City of Santa Monica,SPA 5 - West,3564,4915205.767,9925.940354
+06037701304,District 3,City of Santa Monica,SPA 5 - West,3565,21323398.53,20489.18545
+06037701402,District 3,City of Santa Monica,SPA 5 - West,3566,7457864.641,12197.09515
+06037701501,District 3,City of Santa Monica,SPA 5 - West,3567,6637488.002,12363.0986
+06037701502,District 3,City of Santa Monica,SPA 5 - West,3568,6589618.769,12353.4412
+06037701601,District 3,City of Santa Monica,SPA 5 - West,3569,13023655.41,15732.07102
+06037701602,District 3,City of Santa Monica,SPA 5 - West,3570,7119825.181,13111.23926
+06037701701,District 3,City of Santa Monica,SPA 5 - West,3571,7049752.503,13086.27912
+06037701702,District 3,City of Santa Monica,SPA 5 - West,3572,6507747.254,12303.03064
+06037701801,District 3,City of Santa Monica,SPA 5 - West,3573,20423768.01,19261.62465
+06037701802,District 3,City of Santa Monica,SPA 5 - West,3574,13452438.07,15254.84606
+06037701902,District 3,City of Santa Monica,SPA 5 - West,3575,16583120.92,16639.09134
+06037702002,District 3,City of Santa Monica,SPA 5 - West,3576,10473116.6,13179.75352
+06037261102,District 3,Los Angeles - Beverly Crest,SPA 5 - West,3646,85407661.25,51227.15786
+06037261103,District 3,Los Angeles - Beverly Crest,SPA 5 - West,3647,22597179.56,25395.64697
+06037261104,District 3,Los Angeles - Beverly Crest,SPA 5 - West,3648,49580283.87,40730.72615
+06037261200,District 3,Los Angeles - Beverly Crest,SPA 5 - West,3649,82038321.54,56064.16523
+06037262100,District 3,Los Angeles - Bel Air,SPA 5 - West,3650,94268460.67,66231.93803
+06037262200,District 3,Los Angeles - Bel Air,SPA 5 - West,3651,92556288.24,51023.03124
+06037262301,District 3,Los Angeles - Brentwood,SPA 5 - West,3652,140668877.1,70786.55679
+06037262302,District 3,Los Angeles - Brentwood,SPA 5 - West,3653,33189565.13,31673.58828
+06037262303,District 3,Los Angeles - Brentwood,SPA 5 - West,3654,27867591.14,27207.24354
+06037262400,District 3,Los Angeles - Mandeville Canyon,SPA 5 - West,3655,121143587.9,72274.41007
+06037262501,District 3,Los Angeles - Pacific Palisades,SPA 5 - West,3656,17477545.71,19392.94341
+06037262601,District 3,Los Angeles - Palisades Highlands,SPA 5 - West,3657,39178592.96,34168.35976
+06037262604,District 3,Los Angeles - Pacific Palisades,SPA 5 - West,3658,60968352.43,50692.93846
+06037262704,District 3,Los Angeles - Pacific Palisades,SPA 5 - West,3659,19521291.02,24493.05013
+06037262706,District 3,Los Angeles - Pacific Palisades,SPA 5 - West,3660,23157872.03,21210.20583
+06037262802,District 3,Los Angeles - Pacific Palisades,SPA 5 - West,3661,35627253.87,36744.70469
+06037264000,District 3,Los Angeles - Brentwood,SPA 5 - West,3662,20114439.2,22839.60365
+06037264102,District 3,Los Angeles - Brentwood,SPA 5 - West,3663,4343038.615,10171.08101
+06037702102,District 3,City of Santa Monica,SPA 5 - West,3708,9506242.06,13118.11235
+06037702201,District 3,City of Santa Monica,SPA 5 - West,3709,12958863.09,15186.02708
+06037702202,District 3,City of Santa Monica,SPA 5 - West,3710,10861256.55,13823.86672
+06037702300,District 3,City of Santa Monica,SPA 5 - West,3711,27881109.19,21112.11093
+06037702400,District 2,City of Culver City,SPA 5 - West,3712,21577030.23,23594.31421
+06037702501,District 2,City of Culver City,SPA 5 - West,3713,14580560.09,15468.92957
+06037702502,District 2,City of Culver City,SPA 5 - West,3714,19535183.03,25393.48453
+06037702600,District 2,City of Culver City,SPA 5 - West,3715,23564257.6,23632.56217
+06037702700,District 2,City of Culver City,SPA 5 - West,3716,14571730.81,17411.60732
+06037702801,District 2,City of Culver City,SPA 5 - West,3717,12920974.87,14939.81152
+06037702802,District 2,City of Culver City,SPA 5 - West,3718,6280920.613,15114.50502
+06037702803,District 2,City of Culver City,SPA 5 - West,3719,9086121.841,27321.20754
+06037702900,District 2,Unincorporated - Marina del Rey,SPA 5 - West,3720,40658542.4,25781.56671
+06037703002,District 2,Unincorporated - Ladera Heights,SPA 5 - West,3721,35357695.67,27551.11384
+06037703003,District 2,City of Culver City,SPA 5 - West,3722,21768486.62,25008.23921
+06037800406,District 3,Unincorporated - Santa Monica Mountains,SPA 5 - West,3742,976025588.5,183400.0599
+06037800410,District 3,Unincorporated - Santa Monica Mountains,SPA 5 - West,3743,398549061.5,115553.7696
+06037800411,District 3,City of Malibu,SPA 5 - West,3744,96023885.2,53070.92375
+06037800412,District 3,City of Malibu,SPA 5 - West,3745,73279113.92,59344.04636
+06037800504,District 3,Unincorporated - Santa Monica Mountains,SPA 5 - West,3746,231271325.3,105654.7521
+06037800506,District 3,Unincorporated - Santa Monica Mountains,SPA 5 - West,3748,283541147.6,93296.02551
+06037264103,District 3,Los Angeles - Brentwood,SPA 5 - West,3796,2490260.745,7354.991688
+06037264303,District 3,Los Angeles - Brentwood,SPA 5 - West,3797,2261081.603,6586.023665
+06037264304,District 3,Los Angeles - Brentwood,SPA 5 - West,3798,2225741.226,7198.827025
+06037264305,District 3,Los Angeles - Brentwood,SPA 5 - West,3799,14595887.88,19041.33218
+06037264306,District 3,Los Angeles - Brentwood,SPA 5 - West,3800,3884954.243,8953.877187
+06037265100,District 3,Los Angeles - Westwood,SPA 5 - West,3801,25359898.28,23623.53091
+06037265201,District 3,Los Angeles - Westwood,SPA 5 - West,3802,4644328.417,11660.50755
+06037265203,District 3,Los Angeles - Westwood,SPA 5 - West,3803,3384581.377,8364.391716
+06037265204,District 3,Los Angeles - Westwood,SPA 5 - West,3804,2769406.648,7451.480282
+06037265301,District 3,Los Angeles - Westwood,SPA 5 - West,3805,17371241.08,20071.7787
+06037265303,District 3,Los Angeles - Westwood,SPA 5 - West,3806,1594116.397,5706.964201
+06037265304,District 3,Los Angeles - Westwood,SPA 5 - West,3807,1394810.988,5790.8978
+06037265306,District 3,Los Angeles - Westwood,SPA 5 - West,3808,961217.959,4565.474167
+06037265307,District 3,Los Angeles - Westwood,SPA 5 - West,3809,2468513.828,7795.626288
+06037265410,District 3,Los Angeles - Brentwood,SPA 5 - West,3810,7638860,15973.55043
+06037265420,District 3,Los Angeles - Westwood,SPA 5 - West,3811,7849221.043,12202.56918
+06037265521,District 3,Los Angeles - Westwood,SPA 5 - West,3812,1452625.41,5481.341594
+06037265522,District 3,Los Angeles - Westwood,SPA 5 - West,3813,2667208.061,7734.379654
+06037265523,District 3,Los Angeles - Westwood,SPA 5 - West,3814,3627106.281,7646.927365
+06037265524,District 3,Los Angeles - Westwood,SPA 5 - West,3815,4685379.452,8662.149005
+06037265601,District 3,Los Angeles - Westwood,SPA 5 - West,3816,6758653.258,11344.17226
+06037265602,District 3,Los Angeles - Westwood,SPA 5 - West,3817,3614948.774,9204.148606
+06037265701,District 3,Los Angeles - Westwood,SPA 5 - West,3818,9188262.399,15334.42196
+06037265702,District 3,Los Angeles - Westwood,SPA 5 - West,3819,4106623.735,8615.57387
+06037267101,District 3,Los Angeles - Century City,SPA 5 - West,3820,5094799.387,9328.174997
+06037267102,District 3,Los Angeles - Century City,SPA 5 - West,3821,6863044.904,10650.81457
+06037267201,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3822,6481656.113,10588.18163
+06037267202,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3823,6201058.955,10207.76052
+06037267300,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3824,4635901.661,8676.108354
+06037267403,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3825,2520972.807,7862.052938
+06037267404,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3826,3117365.174,7231.285046
+06037267405,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3827,2296740.305,6131.808205
+06037267406,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3828,2315701.022,6320.039917
+06037267502,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3829,4726561.771,8729.490095
+06037267503,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3830,2126539.041,6123.395473
+06037267504,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3831,2703197.729,6798.486556
+06037267600,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3832,13667713.11,15004.27221
+06037267700,District 3,Los Angeles - West Los Angeles,SPA 5 - West,3833,8734385.959,12174.94339
+06037267800,District 3,Los Angeles - Rancho Park,SPA 5 - West,3834,12404027.43,14893.81666
+06037267901,District 3,Los Angeles - Century City,SPA 5 - West,3835,12154628.45,14915.09957
+06037267902,District 3,Los Angeles - Century City,SPA 5 - West,3836,8318198.167,12819.58562
+06037269000,District 3,Los Angeles - Cheviot Hills,SPA 5 - West,3837,24591678.83,28595.84586
+06037269100,District 3,Los Angeles - Beverlywood,SPA 5 - West,3838,8969469.213,12201.32087
+06037269500,District 3,Los Angeles - Beverlywood,SPA 5 - West,3967,15097437.58,17754.26659
+06037269601,District 3,Los Angeles - Cadillac-Corning,SPA 5 - West,3968,3605287.201,7562.597271
+06037269602,District 3,Los Angeles - Cadillac-Corning,SPA 5 - West,3969,3114965.695,7320.276583
+06037269700,District 3,Los Angeles - Reynier Village,SPA 5 - West,3970,9754783.439,14608.48803
+06037269800,District 3,Los Angeles - Beverlywood,SPA 5 - West,3971,4851981.453,11975.26718
+06037269903,District 3,Los Angeles - Palms,SPA 5 - West,3972,3055382.617,7705.9089
+06037269905,District 3,Los Angeles - Palms,SPA 5 - West,3973,2470914.906,7675.65245
+06037269906,District 3,Los Angeles - Palms,SPA 5 - West,3974,2228641.223,7454.922561
+06037269907,District 3,Los Angeles - Palms,SPA 5 - West,3975,2960305.259,7579.40613
+06037269908,District 3,Los Angeles - Palms,SPA 5 - West,3976,1797698.932,6587.591176
+06037269909,District 3,Los Angeles - Palms,SPA 5 - West,3977,1828606.28,5970.59759
+06037270101,District 3,Los Angeles - Palms,SPA 5 - West,3978,4196370.653,11752.12179
+06037270102,District 3,Los Angeles - Palms,SPA 5 - West,3979,2092525.324,7567.682571
+06037270200,District 3,Los Angeles - Regent Square,SPA 5 - West,3980,8055280.752,14099.76265
+06037271100,District 3,Los Angeles - Rancho Park,SPA 5 - West,3982,8635387.598,14142.14818
+06037271200,District 3,Los Angeles - Mar Vista,SPA 5 - West,3983,5725637.534,13655.43978
+06037271300,District 3,Los Angeles - Mar Vista,SPA 5 - West,3984,15813444.84,19320.26651
+06037271400,District 3,Los Angeles - Mar Vista,SPA 5 - West,3985,12357799.94,14485.36906
+06037271500,District 3,Los Angeles - Mar Vista,SPA 5 - West,3986,9788883.352,13020.2634
+06037271600,District 3,Los Angeles - Mar Vista,SPA 5 - West,3987,9781377.46,12555.05532
+06037271702,District 3,Los Angeles - Palms,SPA 5 - West,3988,7592156.966,13322.76181
+06037271703,District 3,Los Angeles - Palms,SPA 5 - West,3989,4857322.573,12232.24298
+06037271704,District 3,Los Angeles - Palms,SPA 5 - West,3990,5847606.827,11867.45108
+06037271801,District 3,Los Angeles - Palms,SPA 5 - West,3991,5287108.352,9478.417508
+06037271803,District 3,Los Angeles - Palms,SPA 5 - West,3992,2487168.62,6329.047143
+06037271804,District 3,Los Angeles - Palms,SPA 5 - West,3993,3637620.843,9969.112947
+06037271901,District 3,Los Angeles - Mar Vista,SPA 5 - West,3994,7067853.59,10703.52823
+06037271902,District 3,Los Angeles - Mar Vista,SPA 5 - West,3995,9898373.583,12730.5976
+06037272100,District 3,Los Angeles - Mar Vista,SPA 5 - West,3996,12914516.27,14801.81808
+06037272201,District 3,Los Angeles - Mar Vista,SPA 5 - West,3997,2785886.081,6699.030056
+06037272202,District 3,Los Angeles - Mar Vista,SPA 5 - West,3998,3307453.459,8738.049693
+06037272301,District 3,Los Angeles - Mar Vista,SPA 5 - West,3999,6629158.594,12451.38945
+06037272302,District 3,Los Angeles - Mar Vista,SPA 5 - West,4000,5447958.462,10544.9361
+06037273100,District 3,Los Angeles - Venice,SPA 5 - West,4001,12686074.6,15511.84639
+06037273200,District 3,Los Angeles - Venice,SPA 5 - West,4002,6916004.714,11504.13812
+06037273300,District 3,Los Angeles - Venice,SPA 5 - West,4003,6143477.657,11182.44264
+06037269300,District 3,Los Angeles - Cheviot Hills,SPA 5 - West,4004,23755281.81,20156.5348
+06037273403,District 3,Los Angeles - Venice,SPA 5 - West,4005,2869621.473,8586.103161
+06037273404,District 3,Los Angeles - Venice,SPA 5 - West,4006,2649389.503,7992.827182
+06037273502,District 3,Los Angeles - Venice,SPA 5 - West,4007,5716706.652,10126.25233
+06037273600,District 3,Los Angeles - Venice,SPA 5 - West,4008,6348192.077,10763.6352
+06037273700,District 3,Los Angeles - Venice,SPA 5 - West,4009,7435177.848,11006.16878
+06037273800,District 3,Los Angeles - Venice,SPA 5 - West,4010,8023533.623,16413.49336
+06037276000,District 2,Los Angeles - Westchester,SPA 5 - West,4045,25266210.1,22460.21379
+06037273902,District 3,Los Angeles - Venice,SPA 5 - West,4143,9576339.776,13366.1325
+06037274100,District 2,Los Angeles - Venice,SPA 5 - West,4144,6710901.958,14042.09869
+06037274202,District 2,Los Angeles - Marina Peninsula,SPA 5 - West,4145,10042123.13,16499.65565
+06037275101,District 2,Los Angeles - Del Rey,SPA 5 - West,4146,3633314.11,9774.928491
+06037275102,District 2,Los Angeles - Del Rey,SPA 5 - West,4147,6837186.461,11952.48387
+06037275200,District 2,Los Angeles - Del Rey,SPA 5 - West,4148,4985019.028,10518.58275
+06037275311,District 2,Los Angeles - Del Rey,SPA 5 - West,4149,13882947.7,17011.1005
+06037275312,District 2,Los Angeles - Del Rey,SPA 5 - West,4150,8815611.148,14279.50457
+06037275313,District 2,Los Angeles - Del Rey,SPA 5 - West,4151,10505094.61,15860.02897
+06037275400,District 2,Los Angeles - Del Rey,SPA 5 - West,4152,8095239.055,13033.99558
+06037275500,District 2,Los Angeles - Del Rey,SPA 5 - West,4153,8448458.588,11616.75128
+06037275603,District 2,Los Angeles - Playa Vista,SPA 5 - West,4154,11017801.67,16764.59073
+06037275604,District 2,Los Angeles - Playa Vista,SPA 5 - West,4155,16679064,25351.30796
+06037275605,District 2,Los Angeles - Playa Vista,SPA 5 - West,4156,11233416.46,17377.22284
+06037276101,District 2,Los Angeles - Westchester,SPA 5 - West,4157,3546770.922,10389.58355
+06037276102,District 2,Los Angeles - Westchester,SPA 5 - West,4158,7033821.765,20268.91765
+06037276400,District 2,Los Angeles - Westchester,SPA 5 - West,4159,13719925.2,16195.9133
+06037276500,District 2,Los Angeles - Westchester,SPA 5 - West,4160,12850240.88,15352.74519
+06037276601,District 2,Los Angeles - Westchester,SPA 5 - West,4161,24148517.66,23190.2286
+06037276605,District 2,Los Angeles - Westchester,SPA 5 - West,4162,2509882.214,7961.153762
+06037276606,District 2,Los Angeles - Westchester,SPA 5 - West,4163,2360108.007,7249.355994
+06037276607,District 2,Los Angeles - Westchester,SPA 5 - West,4164,5038397.596,11123.21889
+06037276608,District 2,Los Angeles - Westchester,SPA 5 - West,4165,3821364.407,8504.297988
+06037277000,District 2,Los Angeles - Westchester,SPA 5 - West,4166,24690966.81,21806.32643
+06037277100,District 2,Los Angeles - Westchester,SPA 5 - West,4167,13342441.11,15079.62518
+06037277200,District 2,Los Angeles - Westchester,SPA 5 - West,4168,11329446.29,15060.50753
+06037277400,District 2,Los Angeles - Westchester,SPA 5 - West,4169,6827588.645,10436.44065
+06037278001,District 2,Los Angeles - Westchester,SPA 5 - West,4170,17423890.38,25039.05785
+06037278102,District 2,Los Angeles - Playa Del Rey,SPA 5 - West,4171,16249113.28,24720.60778
+06037980017,District 3,Unincorporated - West LA,SPA 5 - West,4435,25671852.07,29447.04745
+06037980019,District 3,Los Angeles - Palisades Highlands,SPA 5 - West,4437,476424607.7,149651.6512
+06037980028,District 2,Los Angeles - Westchester,SPA 5 - West,4573,181871105.8,80476.27092
+06037980038,District 2,Unincorporated - Ladera Heights,SPA 5 - West,4581,48526563.49,42566.84017
